@@ -38,12 +38,6 @@ O design do projeto foi pensado para ser moderno e responsivo, garantindo boa vi
 
 ---
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
