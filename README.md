@@ -28,24 +28,6 @@ O design do projeto foi pensado para ser moderno e responsivo, garantindo boa vi
 
 ---
 
-## 📂 Estrutura de Pastas
-
-```
-GlobalBurger/
-├── assets/
-│   ├── style.css
-│   ├── heroBurger.png
-│   └── burgers/
-│       ├── burger1.png
-│       ├── burger2.png
-│       ├── burger3.png
-│       └── burger4.png
-├── index.html
-└── README.md
-```
-
----
-
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
